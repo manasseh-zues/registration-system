@@ -9,4 +9,3 @@ https://bunifuframework.com/
 #HOW THE SYSTEM WORKS
 - Data saved to the database can be populated from datagridview back to the text boxes, combo, etc for updates, and editing.
 - The system doesn't accept data duplications.
-  
