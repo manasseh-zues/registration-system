@@ -2,8 +2,8 @@
 This system was developed to receive people's details based on registration. It was particularly designed for a church.
 
 #HOW TO USE
-To accurately execute the program, install xampp and import the DB from the folder named database.
-Install Bunifu frameworks to get an accurate UI design for the system.
+- To accurately execute the program, install xampp and import the DB from the folder named database.
+- Install Bunifu frameworks to get an accurate UI design for the system.
 https://bunifuframework.com/
 
 #HOW THE SYSTEM WORKS
